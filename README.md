@@ -1,0 +1,3 @@
+# About
+
+Simple javascript calculator.
